@@ -1,0 +1,109 @@
+.bg-login, .bg-rg {
+    background: #f5f7fb;
+}
+.bg-footer{
+    background: #222e3c;
+}
+footer .text-muted, .pass-sec .text-muted {
+    --bs-text-opacity: 1;
+    color: #fff !important;
+}
+.dark-bg .card {
+    background: #222e3c;
+}
+.login-form h3, .rg-form h3, .pass-sec h3 {
+    color: #fff;
+}
+.card-body label.form-check-label {
+    color: #fff;
+}
+.wt h5 {
+    color: #fff;
+}
+.db-dark-bg{
+ background: #222e3c;
+}
+body.des-sec{
+   background: #f5f7fb;  
+   color: #000;
+}
+.profile-dtl img {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: 2px solid #152036;
+    margin-bottom: 10px;
+}
+.profile-sec {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.profile-dtl{
+    text-align: center;
+}
+.inner-box {
+    background: #fff;
+}
+.dt-table {
+    width: 100%;
+}
+.dt-table th, .dt-table td{
+    border-bottom: 1px solid #152036;
+    padding: 20px 5px;
+}
+.del-btn {
+    padding: 5px 10px;
+    font-size: 15px;
+    border-radius: 3px;
+    border: 1px solid rgba(0,0,0,.12);
+    background: #152036;
+    color: #fff;
+}
+.get-script {
+    font-size: 15px;
+    padding: 4px 10px;
+    font-weight: 400;
+    margin-right: 5px;
+}
+.pl-0 {
+    padding-left: 0;
+}
+.pr-0 {
+    padding-right: 0;
+}
+.db-pagination .pagination>li {
+    display: inline;
+}
+.db-pagination ul.pagination li a {
+    color: #fff;
+    background-color: #152036;
+    border: 1px solid #152036;
+}
+.action-btn {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.main-url {
+    border-bottom: 1px solid #000;
+    margin-bottom: 20px;
+}
+.fl-gp {
+    display: flex; 
+    gap: 10px;
+    justify-content: end;
+}
+.pg-table {
+    border: 1px solid;
+    padding: 20px;
+}
+.pg-table h6 {
+    border-bottom: 1px solid;
+    padding-bottom: 13px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.error{
+    color: red;
+}
